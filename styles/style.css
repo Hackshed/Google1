@@ -1,0 +1,40 @@
+
+#header{
+    font-family: arial,sans-serif; 
+    
+}
+
+#sign-in{
+    width: 55px;
+    padding: 7px;
+    margin-top: 16px;
+    margin-right: 30px;
+    color: white;
+    background-color: #3c7ae4;
+    border-radius: 2px;
+    font-size: 10pt;
+    text-align: center;
+    float: right;
+}
+
+#middle{
+  display: block;
+  padding-top: 200px;
+  text-align: center;
+  padding-left: 360px;
+  padding-right: 360px;
+}
+
+#inputbox{
+    position: relative;
+}
+
+#translate{
+    text-decoration: none;
+    position: relative;
+    text-align: center;
+    font-family: arial,sans-serif;
+    font-size: 10pt;
+    white-space: nowrap;
+    
+}
