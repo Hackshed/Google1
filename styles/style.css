@@ -1,9 +1,15 @@
 
-#header{
-    font-family: arial,sans-serif; 
+a {
+    text-decoration:none;
     
-}
+ }
 
+.header{
+    font-family: arial,sans-serif; 
+    }
+
+
+          
 #sign-in{
     width: 55px;
     padding: 7px;
@@ -29,7 +35,7 @@
     position: relative;
 }
 
-#translate{
+.translate{
     text-decoration: none;
     position: relative;
     text-align: center;
